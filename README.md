@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Betzzku
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning to make games
-- 💞️ I’m looking to collaborate on games
-- 📫 How to reach me messages
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm not good at this yet
+# Hi, I'm Betzzku
 
-<!---
-Betzzku/Betzzku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm learning game development, currently working with Godot 4.x — building a 3D platformer with a custom character controller, camera system, and animation states.
+
+## What I'm doing
+
+- Learning to build games in Godot (GDScript)
+- Currently working on a 3D platformer project
+- Open to collaborating on game dev projects
+
+## Get in touch
+
+- [Add your contact method here — Discord, email, itch.io, etc.]
+
+## About me
+
+I'm still early in my game dev journey, but I'm putting in the work to get better.
