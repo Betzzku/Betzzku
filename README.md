@@ -18,4 +18,5 @@ I'm still early in my game dev journey, but I'm putting in the work to get bette
 
 ## App experience
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
