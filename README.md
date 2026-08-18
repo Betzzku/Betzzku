@@ -10,7 +10,8 @@ I'm learning game development, currently working with Godot 4.6 — building a 3
 
 ## Get in touch
 
-- [Add your contact method here — Discord, email, itch.io, etc.]
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/betzzku)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:betzzku1@gmail.com)
 
 ## About me
 
