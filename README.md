@@ -1,6 +1,6 @@
 # Hi, I'm Betzzku
 
-I'm learning game development, currently working with Godot 4.6 — building a 3D platformer with a custom character controller, camera system, and animation states.
+I'm learning game development, currently working with Godot 4.6.
 
 ## What I'm doing
 
@@ -20,4 +20,8 @@ I'm still early in my game dev journey, but I'm putting in the work to get bette
 ## App experience
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
 
+## coding languages I know
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
