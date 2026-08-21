@@ -6,7 +6,6 @@ I'm learning game development, currently working with Godot 4.6.
 
 - Learning to build games in Godot (GDScript)
 - Currently working on a 3D platformer project
-- Open to collaborating on game dev projects
 
 ## Get in touch
 
@@ -15,7 +14,7 @@ I'm learning game development, currently working with Godot 4.6.
 
 ## About me
 
-I'm still early in my game dev journey, but I'm putting in the work to get better.
+I'm still early in my game dev journey, but I'm putting in the work to get better!
 
 ## App experience
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
@@ -23,7 +22,7 @@ I'm still early in my game dev journey, but I'm putting in the work to get bette
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
 
-## coding languages I know
+## coding languages I understand
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
